@@ -1,7 +1,7 @@
 import datetime
 print(datetime.datetime.now())
 
-'''name = input("Enter your name - ")
+name = input("Enter your name - ")
 college = input("Enter your college name - ")
 output1 = " ".join(name)        #divides string by using given separator
 output2 = ",".join(college)
@@ -13,6 +13,6 @@ name =input("Enter your name ")
 age = input("Enter your age ")
 place = input("Enter your native place")
 print(f"my name is {name} i am {age} years old i am from {place}")
-print("my name is {} i am {} years old i am from {}".format(name,age,place))'''
+print("my name is {} i am {} years old i am from {}".format(name,age,place))
 
 
